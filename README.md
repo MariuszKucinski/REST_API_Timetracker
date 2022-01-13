@@ -19,7 +19,7 @@ Every operation is saved in the API, so we can refresh the page and all data wil
 1)Download all needed software bulleted above. </br>
 2)Launch your IDE(Intellij UE, eclipse, etc.) </br>
 3)Open project as "new project from existing source", check Maven project and "import project from external mode"</br>
-4)Open index.html in your browser
+4)Open index.html in your browser</br>
 Enjoy!</p> 
 </br>
 (PL) </br>
@@ -41,5 +41,5 @@ Każda operacja jest zapisywana w API, dzięki czemu możemy odświeżyć stron�
 1) Pobierz wszystkie potrzebne oprogramowanie wymienione powyżej. </br>
 2) Uruchom swoje IDE (Intellij UE, Eclipse itp.) </br>
 3) Otwórz projekt jako „nowy projekt z istniejącego źródła”, wybierz projekt Maven i „importuj projekt z trybu zewnętrznego”</br>
-4) Otwórz index.html w swojej przeglądarce
+4) Otwórz index.html w swojej przeglądarce</br>
 Korzystaj!</p>
