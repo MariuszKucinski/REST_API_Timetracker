@@ -22,7 +22,7 @@ Every operation is saved in the API, so we can refresh the page and all data wil
 4)Open index.html in your browser</br>
 Enjoy!</p> 
 </br>
-(PL) </br>
+(PL) </br></br>
 <p> 
 Ten program umożliwia nam tworzenie i zarządzanie zadaniami z widoku internetowego. Zadania są zapisywane i aktualizowane w API</br>
 Tworząc ten program utrwaliłem swoją wiedzę na temat:
